@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @fitorpz
-- 👀 I’m interested  la prgramación, me gusta realizar sistemas
-- 🌱 I’m currently learning  JavaScript
-- 💞️ I’m looking to collaborate on sitios web
-- 📫 How to reach me  al 59179140105
+# 👋 ¡Hola! Soy @fitorpz
 
-<!---
-fitorpz/fitorpz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Desarrollador apasionado por crear soluciones digitales
+
+- 🎯 Me encanta la **programación** y disfruto desarrollar **sistemas web funcionales y prácticos**.
+- 📚 Actualmente estoy aprendiendo **JavaScript** para mejorar mis habilidades en el desarrollo frontend.
+- 🤝 Me interesa colaborar en **proyectos web** y trabajar en equipo con otros desarrolladores.
+- 📞 ¿Quieres contactarme? Puedes escribirme al **+591 67310646**
+
+---
+
+### 🚀 Tecnologías que manejo
+
+- HTML5 / CSS3 / JavaScript
+- PHP / Laravel
+- Python /Django
+- MySQL
+- Bootstrap
+- Git & GitHub
+
+---
+
+### 🌟 Objetivo
+
+Seguir creciendo como desarrollador, aportar en proyectos reales y construir soluciones que marquen la diferencia.
+
+---
+
+> “La programación no es solo código, es convertir ideas en realidad.” 💡
+
